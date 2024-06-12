@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @Vedant-Hande, but you can call me Ved or Rutu !
+- ✨ year of coming into world : 2006
+- 👀 I’m interested in 'Coding' | 'Web Development' | 'AI-ML' etc.
+- 🌱 I’m currently learning Information Technology with a focus on coding.
+- 💞️ I’m looking to collaborate on innovative projects in the fields of web development, AI, and machine learning that not only solve real-world problems but also push the boundaries of what technology can achieve!
+- 📫 How to reach me: 
+  - Phone: +91 9699243509
+  - Email: vedanthande453@gmail.com
+- 😄 Pronouns: he/him | always eager to learn new coding tricks and technologies !
+- ⚡ Fun fact: Besides coding, I love biking through scenic routes and exploring new trails. I'm always eager to dive into the latest tech trends and master new programming languages. And yes, I once coded mostof the project but it's small-small, now it's my most formidable opponent ✔ 
