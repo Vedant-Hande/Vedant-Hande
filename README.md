@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vedant-Hande, but you can call me Ved or Rutu !
+- 👋 Hi, I’m @Vedant-Hande, but you can call me Ved !
 - ✨ year of coming into world : 2006
 - 👀 I’m interested in 'Coding' | 'Web Development' | 'AI-ML' etc.
 - 🌱 I’m currently learning Information Technology with a focus on coding.
