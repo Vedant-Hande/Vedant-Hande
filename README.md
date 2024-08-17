@@ -7,4 +7,5 @@
   - Phone: +91 9699243509
   - Email: vedanthande453@gmail.com
 - 😄 Pronouns: he/him | always eager to learn new coding tricks and technologies !
-- ⚡ Fun fact: Besides coding, I love biking through scenic routes and exploring new trails. I'm always eager to dive into the latest tech trends and master new programming languages. And yes, I once coded mostof the project but it's small-small, now it's my most formidable opponent ✔ 
+- ⚡ Fun fact: Besides coding, I love biking through scenic routes and exploring new trails. I'm always eager to dive into the latest tech trends and master new programming languages. And yes, I once coded mostof the project but it's small-small, now it's my most formidable opponent ✔
+- BTW thanks you for reading !
