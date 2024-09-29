@@ -38,7 +38,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=vedant-hande&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
 <br/>
 
----
 [![](https://visitcount.itsvg.in/api?id=vedant-hande&icon=2&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
