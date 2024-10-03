@@ -1,6 +1,5 @@
 # 💫 About Me:
-💫 About Me:<br>👋 Hi, I’m @Vedant-Hande, but you can call me Ved !<br>- ✨ year of coming into world : 2006<br>- 👀 I’m interested in 'Coding' | 'Web Development' | 'AI-ML' etc.<br>- 🌱 I’m currently learning Information Technology with a focus on coding.<br>- 💞️ I’m looking to collaborate on innovative projects in the fields of web development, AI, and machine learning that not only solve real-world problems but also push the boundaries of what technology can achieve!<br>- 📫 How to reach me:<br>- Phone: +91 9699243509<br>- Email: vedanthande453@gmail.com<br>- 😄 Pronouns: he/him | always eager to learn new coding tricks and technologies !<br>- ⚡ Fun fact: Besides coding, I love biking through scenic routes and exploring new trails. I'm always eager to dive into the latest tech trends and master new programming languages. And yes, I once coded mostof the project but it's small-small, now it's my most formidable opponent ✔
-
+👋 Hi, I’m @Vedant-Hande, but you can call me Ved !<br>- ✨ year of coming into world : 2006<br>- 👀 I’m interested in 'Coding' | 'Web Development' | 'AI-ML' etc.<br>- 🌱 I’m currently learning Information Technology with a focus on coding.<br>- 💞️ I’m looking to collaborate on innovative projects in the fields of web development, AI, and machine learning that not only solve real-world problems but also push the boundaries of what technology can achieve!<br>- 📫 How to reach me:<br>- Phone: +91 9699243509<br>- Email: vedanthande453@gmail.com<br>- 😄 Pronouns: he/him | always eager to learn new coding tricks and technologies !<br>- ⚡ Fun fact: Besides coding, I love biking through scenic routes and exploring new trails. I'm always eager to dive into the latest tech trends and master new programming languages. And yes, I once coded mostof the project but it's small-small, now it's my most formidable opponent ✔
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/feed/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/user:26616729) 
@@ -11,7 +10,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Vedant-Hande&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/><br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Vedant-Hande&theme=midnight-purple&hide_border=false)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant-Hande&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br><br/>
-<br>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Vedant-Hande&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
