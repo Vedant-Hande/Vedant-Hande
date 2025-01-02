@@ -1,4 +1,4 @@
-# Understanding the language of 0's & 1's of computer...✔
+# Understanding the language of 0's & 1's ...✔
 ## 💫 About Me:
 👋 Hi, I’m @Vedant-Hande !<br>- 👀 I’m interested | 'Web Development' | 'AI-ML' |' IOT'|  <br>- 📫 How to reach me:<br>- Phone: +91 9699243509<br>- Email: vedanthande453@gmail.com <br/> 
 ## 🌐 Socials:
