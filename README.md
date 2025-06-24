@@ -1,7 +1,5 @@
 # 👋 Hi, I’m Vedant Hande!
  Welcome to my GitHub! I’m passionate about building innovative solutions in Web Development, AI, and Machine Learning—always eager to push the boundaries of technology and solve real-world problems.
-
-## 💡 About Me
   🚀 Innovator: Always looking to collaborate on projects that make a difference.
   🤝 Open to Collaboration: If you have an idea or project in web, AI, or ML, let’s connect!
   📬 Contact Me:
