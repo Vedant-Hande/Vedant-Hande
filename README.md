@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=I'm%20Vedant%20Hande%20👋&fontSize=35&fontAlignY=40" alt="banner"/>
 </p>
  
- # <b>#NoDegree (yet), Just #decoding the language of 0 & 1 daily | #Building1stApp</b>
+ ## 19Yo | #NoDegree (yet), Just #decoding the language of 0 & 1 daily | #Building1stApp
 
 # Contact Me:
               📱 Phone: +91 9699243509
