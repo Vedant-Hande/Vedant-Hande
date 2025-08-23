@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=I'm%20Vedant%20Hande%20👋&fontSize=35&fontAlignY=40" alt="banner"/>
-</p>
+
  
      19Yo | #NoDegree (yet), Just #decoding the language of 0 & 1 daily | #Building1stApp
 
@@ -35,6 +33,8 @@ while (inspiration) {
 }
 // - Vedant Hande
 ```
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Vedant%20Hande%20👋&fontSize=35&fontAlignY=40" alt="banner"/>
+</p>
 
 
