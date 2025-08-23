@@ -1,8 +1,9 @@
-# 👋 Hi, I’m Vedant Hande!
- Welcome to my GitHub! I’m passionate about building innovative solutions in Web Development, AI, and Machine Learning—always eager to push the boundaries of technology and solve real-world problems.
-  🚀 Innovator: Always looking to collaborate on projects that make a difference.
-  🤝 Open to Collaboration: If you have an idea or project in web, AI, or ML, let’s connect!
-  📬 Contact Me:
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=I'm%20Vedant%20Hande%20👋&fontSize=35&fontAlignY=40" alt="banner"/>
+</p>
+ ## <b>#NoDegree (yet), Just #decoding the language of 0 & 1 daily | #Building1stApp</b>
+
+# Contact Me:
               📱 Phone: +91 9699243509
               📧 Email: vedanthande453@gmail.com
 
