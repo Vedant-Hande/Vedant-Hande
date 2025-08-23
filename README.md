@@ -1,7 +1,8 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=I'm%20Vedant%20Hande%20👋&fontSize=35&fontAlignY=40" alt="banner"/>
 </p>
- ## <b>#NoDegree (yet), Just #decoding the language of 0 & 1 daily | #Building1stApp</b>
+ 
+ # <b>#NoDegree (yet), Just #decoding the language of 0 & 1 daily | #Building1stApp</b>
 
 # Contact Me:
               📱 Phone: +91 9699243509
@@ -17,15 +18,17 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Vedant-Hande&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Vedant-Hande&limit=5&theme=aura&combine_all_yearly_contributions=true)
+
 ```
-while(alive) {
-  eat();
-  sleep();
-  code();
+while (inspiration) {
+  // Compose a new melody (idea)
+  write_line_of_code();
+  // Arrange the harmony (structure)
+  arrange_logic();
+  // Play the masterpiece (run)
+  perform();
 }
-// -Vedant Hande
+// - Vedant Hande
 ```
 ---
 [![](https://visitcount.itsvg.in/api?id=Vedant-Hande&icon=0&color=0)](https://visitcount.itsvg.in)
