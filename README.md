@@ -1,7 +1,6 @@
 
  
-     19Yo | #NoDegree (yet), Just #decoding the language of 0 & 1 daily | #Building1stApp
-
+Aspiring Backend Developer | MERN Stack | Strengthening Fundamentals in DSA | Software Development Intern at Innovatus Tech
               📱 Phone: +91 9699243509
               📧 Email: vedanthande453@gmail.com
               
