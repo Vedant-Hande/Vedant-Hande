@@ -1,6 +1,4 @@
-
- 
-Aspiring Backend Developer | MERN Stack | Strengthening Fundamentals in DSA | Software Development Intern at Innovatus Tech
+    Aspiring Backend Developer | MERN Stack | Strengthening Fundamentals in DSA | Software Development Intern at Innovatus Tech
               📱 Phone: +91 9699243509
               📧 Email: vedanthande453@gmail.com
               
