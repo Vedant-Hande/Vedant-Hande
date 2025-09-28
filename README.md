@@ -9,7 +9,6 @@
       <p>
         I'm an aspiring <strong>Backend Developer (MERN Stack)</strong> and a current Software Development Intern at Innovatus Tech. My focus is on building robust applications and mastering Data Structures & Algorithms.
       </p>
-      
       <h3>🌱 Currently Learning</h3>
       <ul>
         <li>Advanced Node.js concepts</li>
