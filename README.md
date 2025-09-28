@@ -16,10 +16,7 @@
 </p>
 
 ## 📊 GitHub Stats:
+<div> 
 ![](https://github-readme-stats.vercel.app/api?username=Vedant-Hande&theme=aura&hide_border=false&include_all_commits=false&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Vedant-Hande&theme=aura&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant-Hande&theme=aura&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Vedant%20Hande%20👋&fontSize=35&fontAlignY=40" alt="banner"/>
-</p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Vedant-Hande&theme=aura&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant-Hande&theme=aura&hide_border=false&include_all_commits=false&count_private=true&layout=compact)</div>
