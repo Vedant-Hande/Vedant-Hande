@@ -15,7 +15,6 @@
         <li>System Design Principles</li>
         <li>Cloud deployment with Google Cloud</li>
       </ul>
-
       <h3>🤝 Let's Connect</h3>
       <p>
         <a href="https://www.linkedin.com/in/vedant-hande-" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> &nbsp;
