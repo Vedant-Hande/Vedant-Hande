@@ -1,10 +1,8 @@
     Aspiring Backend Developer | MERN Stack | Strengthening Fundamentals in DSA | Software Development Intern at Innovatus Tech
      📱 Phone: +91 9699243509
     📧 Email: vedanthande453@gmail.com
-              
-|---|---|---|
-  <a href="https://www.linkedin.com/in/vedant-hande-" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://x.com/vedant0x" target="_blank"><img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=twitter&logoColor=white" alt="X (Twitter)"></a>
+<a href="https://www.linkedin.com/in/vedant-hande-" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://x.com/vedant0x" target="_blank"><img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=twitter&logoColor=white" alt="X (Twitter)"></a>
 
 ## 💻 Tech Stack:
 <p align="center">
