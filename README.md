@@ -4,40 +4,43 @@
   </a>
 </p>
 
-<p align="center">
-  <em>
-    Currently interning at <b>Innovatus Tech</b>, where I'm turning ideas into scalable web solutions.<br>
-    My focus is on building a strong foundation in <b>Data Structures & Algorithms</b>.
-  </em>
-</p>
-
 <br>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/vedant-hande-" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
-  <a href="https://x.com/vedant0x" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"></a>&nbsp;
-  <a href="mailto:vedanthande453@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
-
----
-
-<h2 align="center">🛠️ My Tech Arsenal</h2>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,js,react,nodejs,express,mongodb,mysql,gcp,git,github,vscode,postman" />
-  </a>
-</p>
-
----
-
-<h2 align="center">📊 My GitHub Activity</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant-Hande&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vedant-Hande&theme=aura&hide_border=true" alt="GitHub Streak" />
-</p>
+<table width="100%">
+  <tr>
+    <td width="65%" valign="top">
+      <h3>👨‍💻 About Me</h3>
+      <p>
+        - 🚀 Currently a <b>Software Development Intern</b> at Innovatus Tech.<br>
+        -  specializing in the <b>MERN stack</b> to build scalable web applications.<br>
+        - 🧠 Strengthening my fundamentals in <b>Data Structures & Algorithms</b>.<br>
+        - 💡 Passionate about collaborative projects and continuous learning.
+      </p>
+      <h3>🤝 Connect With Me</h3>
+      <p>
+        <a href="https://www.linkedin.com/in/vedant-hande-" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
+        <a href="https://x.com/vedant0x" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"></a>&nbsp;
+        <a href="mailto:vedanthande453@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+      </p>
+      <h3>🛠️ My Tech Arsenal</h3>
+      <p>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=cpp,java,js,react,nodejs,express,mongodb,mysql,gcp,git,github,vscode,postman" />
+        </a>
+      </p>
+    </td>
+    <td width="35%" valign="top">
+      <h3>📊 My GitHub Stats</h3>
+      <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Vedant-Hande&theme=aura&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vedant-Hande&theme=aura&hide_border=true" alt="GitHub Streak" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant-Hande&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+        <br>
+        <img align="center" src="https://github-profile-trophy.vercel.app/?username=Vedant-Hande&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 <br>
 
