@@ -25,6 +25,9 @@
     <td valign="top" width="40%">
       <img src="https://github-readme-stats.vercel.app/api?username=Vedant-Hande&theme=aura&hide_border=false&include_all_commits=true&count_private=true" alt="Vedant Hande's GitHub Stats"/>
     </td>
+    <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant-Hande&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+    </td>
   </tr>
 </table>
 
