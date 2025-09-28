@@ -6,8 +6,6 @@
   <a href="https://www.linkedin.com/in/vedant-hande-" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://x.com/vedant0x" target="_blank"><img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=twitter&logoColor=white" alt="X (Twitter)"></a>
 </p>
-
-
 # 💻 Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
@@ -17,5 +15,5 @@
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Vedant-Hande&theme=aura&hide_border=false&include_all_commits=false&count_private=true)
+<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Vedant-Hande&theme=aura&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant-Hande&theme=aura&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
