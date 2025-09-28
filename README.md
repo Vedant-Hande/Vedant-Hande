@@ -9,13 +9,8 @@
 <table width="100%">
   <tr>
     <td width="65%" valign="top">
-      <h3>👨‍💻 About Me</h3>
-      <p>
-        - 🚀 Currently a <b>Software Development Intern</b> at Innovatus Tech.<br>
-        -  specializing in the <b>MERN stack</b> to build scalable web applications.<br>
-        - 🧠 Strengthening my fundamentals in <b>Data Structures & Algorithms</b>.<br>
-        - 💡 Passionate about collaborative projects and continuous learning.
-      </p>
+      <h3>👨‍💻 About Me</h3> 
+      I'm an aspiring <strong>Backend Developer (MERN Stack)</strong> and a current Software Development Intern at Innovatus Tech. My focus is on building robust applications and mastering Data Structures & Algorithms.
       <h3>🤝 Connect With Me</h3>
       <p>
         <a href="https://www.linkedin.com/in/vedant-hande-" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
@@ -29,11 +24,13 @@
         </a>
       </p>
     </td>
-    <td width="35%" valign="top">
+    <td width="50%" valign="top">
       <h3>📊 My GitHub Stats</h3>
       <p align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=Vedant-Hande&theme=aura&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+        <br>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vedant-Hande&theme=aura&hide_border=true" alt="GitHub Streak" />
+        <br>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant-Hande&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
         <br>
         <img align="center" src="https://github-profile-trophy.vercel.app/?username=Vedant-Hande&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
@@ -43,7 +40,3 @@
 </table>
 
 <br>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" alt="Footer Banner"/>
-</p>
