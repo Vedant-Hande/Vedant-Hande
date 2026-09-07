@@ -1,24 +1,27 @@
 <h1 align="center">Hi 👋, I'm Vedant Hande</h1>
-<h3 align="center">Aspiring Backend Developer | MERN Stack | Strengthening Fundamentals in DSA</h3>
+<h3 align="center">Full Stack Developer (MERN) | Software Developer | B.Tech (in progress)</h3>
 
 <p align="center">
-  💼 Software Development Intern @ Innovatus Tech &nbsp;|&nbsp; 📍 India
+  💼 Working as a Software Developer &nbsp;|&nbsp; 🎓 Pursuing B.Tech (Final Year) &nbsp;|&nbsp; 📍 India
 </p>
 
 ---
 
 ### 🚀 About Me
-- 🔭 I'm currently building full-stack projects with the **MERN stack**
-- 🌱 I'm currently strengthening my **Data Structures & Algorithms**
-- 💡 I enjoy turning ideas into working products — from landing pages to full apps
-- 📫 Reach me at **vedanthande453@gmail.com**
-- ⚡ Fun fact: *Defining reality through 0 & 1, daily.*
+
+- 💻 Full Stack Developer building and shipping production web apps with the **MERN stack**
+- 🏗️ Comfortable across the stack — REST APIs, database design, auth, payments, and clean MVC architecture
+- 🔧 Expanding into **Docker, AWS, and Kubernetes** to own deployment and infrastructure end-to-end
+- 🎯 I write code meant to last: proper validation, error handling, and structure — not just "it works"
+- ⚙️ Currently building **Null-Stay**, a full booking marketplace with real payment integration and role-based access on the roadmap
+
+📫 Reach me at **vedanthande453@gmail.com**
 
 ---
 
 ### 🛠️ Tech Stack
 
-![](https://skillicons.dev/icons?i=cpp,java,js,react,nodejs,express,mongodb,git,github,vscode,postman)
+![](https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,html,css,tailwind,git,github,vscode,postman,docker,aws)
 
 ---
 
@@ -26,12 +29,10 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| [**Trip-Spot**](https://github.com/Vedant-Hande/Trip-Spot) | Full-stack web app for property listings and reviews — my first full-stack build showcasing Express.js patterns and data modeling | Node.js, Express, MongoDB, CSS |
+| [**Null-Stay**](https://github.com/Vedant-Hande/Null-Stay) | A high-fidelity, Airbnb-style property booking marketplace with CRUD listings, reviews, Joi validation, and Razorpay payment integration | Node.js, Express, MongoDB, EJS, Tailwind CSS |
+| [**Trip-Spot**](https://github.com/Vedant-Hande/Trip-Spot) | Full-stack web app for property listings and reviews — my first full-stack build, focused on Express.js patterns and data modeling | Node.js, Express, MongoDB, CSS |
 | [**TickMe-Todo**](https://github.com/Vedant-Hande/TickMe-Todo) | A feature-rich, visually polished todo list app with intuitive task management controls | JavaScript, CSS |
 | [**Apple-Vision-Pro**](https://github.com/Vedant-Hande/Apple-Vision-Pro) | A visually rich landing page clone with smooth scroll animations and immersive video backgrounds | HTML, CSS, GSAP, Locomotive Scroll |
-| [**MiniTune-Music**](https://github.com/Vedant-Hande/MiniTune-Music-) | A lightweight music player web app | JavaScript |
-
-> 💡 *Tip: add a live demo link and a screenshot/GIF to each repo's own README — it makes a huge difference to anyone browsing your profile.*
 
 ---
 
@@ -61,4 +62,4 @@
 
 ---
 
-<p align="center"><i>Thanks for stopping by — feel free to explore my repos and connect!</i></p>
+<p align="center"><i>Working a full-time job, finishing my degree, and building real projects on the side — one commit at a time.</i></p>
