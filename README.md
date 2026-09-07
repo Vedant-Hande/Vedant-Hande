@@ -113,22 +113,6 @@ A cinematic landing page clone with smooth scroll-triggered animations and immer
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Vedant-Hande&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant-Hande&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vedant-Hande&theme=tokyo-night&hide_border=true" width="95%"/>
-</p>
-
----
-
-### 🏆 Trophy Case
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vedant-Hande&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
 ---
 
 ### 🐍 Contribution Snake
