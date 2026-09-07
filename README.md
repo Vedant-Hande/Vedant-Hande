@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Vedant Hande</h1>
-<h3 align="center">Full Stack Developer (MERN) | Software Developer | B.Tech (in progress)</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e2327,100:0d1117&height=200&section=header&text=Vedant%20Hande&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN&descAlignY=55&descSize=18" width="100%"/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+full-stack+apps+with+the+MERN+stack;Shipping+production+code%2C+not+just+tutorials;Currently+leveling+up%3A+Docker+%2B+AWS+%2B+Kubernetes;Turning+coffee+into+commits+%E2%98%95" alt="Typing SVG" />
+</p>
 
 <p align="center">
   💼 Working as a Software Developer &nbsp;|&nbsp; 🎓 Pursuing B.Tech (Final Year) &nbsp;|&nbsp; 📍 India
@@ -62,4 +65,16 @@
 
 ---
 
+### 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Vedant-Hande/Vedant-Hande/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+> ⚙️ This animates your real contribution graph as a snake eating your commits. It needs a one-time GitHub Actions setup — instructions below.
+
+---
+
 <p align="center"><i>Working a full-time job, finishing my degree, and building real projects on the side — one commit at a time.</i></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e2327,100:0d1117&height=100&section=footer" width="100%"/>
