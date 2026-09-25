@@ -5,8 +5,8 @@
 ```bash
 $ whoami
 19 y/o full-stack dev · 1+ yr shipping production code
-junior software engineer @ Boob Softwares
-founder @ NullCode · doing B.Tech @ DBATU + full-time engineering
+junior software engineer @ BSNS
+doing Job + B.Tech @ DBATU + full-time engineering + 
 
 $ cat stack
 frontend/  react.js, tailwind, javascript (es6+)
