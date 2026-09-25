@@ -1,24 +1,24 @@
-# Vedant Hande
+# Vedant Hande — Changelog
 
-> I don't write code that just works. I build things that scale.
+## [v2.0.0] - 2025-07 (Current)
+### Added
+- Junior Software Engineer @ Boob Softwares N Solutions
+- Founder @ NullCode (shipping software ventures)
+- B.Tech @ DBATU (2nd year, parallel to full-time work)
 
-```bash
-$ whoami
-19 y/o full-stack dev · 1+ yr shipping production code
-junior software engineer @ BSNS
-doing Job + B.Tech @ DBATU + full-time engineering 
+### Optimized
+- Server response times reduced by 20% (PHP/MySQL query optimization)
 
-$ cat stack
-frontend/  react.js, tailwind, javascript (es6+)
-backend/   node.js, express, php, rest apis
-db/        mongodb, mysql
-devops/    docker, ci/cd, cloudinary, razorpay
+## [v1.5.0] - Before graduation
+### Added
+- Diploma in IT (91.13%)
+- Placed on campus before graduation
 
-$ cat wins
-- own end-to-end dev of web systems (production PHP & MySQL)
-- cut server response times by 20% (query optimization)
-- placed before graduation (diploma in IT, 91.13%)
+---
 
-$ ls now
-building/   something new (coming soon)
-open_to/    product-driven SaaS roles
+**Dependencies:** React.js, Node.js, Express, PHP, MySQL, MongoDB, Docker, CI/CD, K8s.
+
+**Status:** 19 y/o. Open to product-driven SaaS roles. 
+**Contact:** [LinkedIn](https://www.linkedin.com/in/vedant-hande-b51122291/) · [Email](mailto:vedanthande453@gmail.com)
+
+<sub>No badges. No stats. Just a developer, shipping.</sub>
