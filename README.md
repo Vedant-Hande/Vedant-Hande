@@ -1,22 +1,24 @@
-// vedant_hande.json
-{
-  "age": 19,
-  "role": "Full Stack Developer",
-  "current": "Junior Software Engineer @ Boob Softwares N Solutions",
-  "ventures": "Founder @ NullCode",
-  "education": "B.Tech @ DBATU (2nd yr) | Diploma in IT (91.13%)",
-  "stack": {
-    "frontend": ["React.js", "Tailwind CSS", "JavaScript (ES6+)"],
-    "backend": ["Node.js", "Express", "PHP", "REST APIs"],
-    "database": ["MongoDB", "MySQL"],
-    "devops": ["Docker", "CI/CD", "Cloudinary", "Razorpay"]
-  },
-  "metrics": {
-    "production_gain": "20% faster server response times",
-    "status": "Open to product-driven SaaS roles"
-  },
-  "contact": {
-    "linkedin": "https://www.linkedin.com/in/vedant-hande-b51122291/",
-    "email": "vedanthande453@gmail.com"
-  }
-}
+# Vedant Hande
+
+> I don't write code that just works. I build things that scale.
+
+```bash
+$ whoami
+19 y/o full-stack dev · 1+ yr shipping production code
+junior software engineer @ Boob Softwares
+founder @ NullCode · doing B.Tech @ DBATU + full-time engineering
+
+$ cat stack
+frontend/  react.js, tailwind, javascript (es6+)
+backend/   node.js, express, php, rest apis
+db/        mongodb, mysql
+devops/    docker, ci/cd, cloudinary, razorpay
+
+$ cat wins
+- own end-to-end dev of web systems (production PHP & MySQL)
+- cut server response times by 20% (query optimization)
+- placed before graduation (diploma in IT, 91.13%)
+
+$ ls now
+building/   something new (coming soon)
+open_to/    product-driven SaaS roles
