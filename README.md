@@ -5,8 +5,8 @@
 ```bash
 $ whoami
 19 y/o full-stack dev · 1+ yr shipping production code
-software developer @ Boob Technologies Pvt Ltd
-founder @ NullCode · B.Tech @ DBATU (in parallel)
+junior sde at a small tech startup · founder @ NullCode
+B.Tech @ DBATU (in parallel)
 
 $ cat stack
 frontend/  react.js · tailwind · javascript (es6+) · redux
@@ -22,7 +22,7 @@ $ cat wins
 - shipping full-time code while completing B.Tech
 
 $ cat experience
-current    Software Developer @ Boob Technologies (Jul 2025 – Present)
+current    Junior SDE · Small Tech Startup · Jul 2025 – Present
            → transforming requirements into production PHP/MySQL systems
            → architecting efficient backends & clean query logic
 
