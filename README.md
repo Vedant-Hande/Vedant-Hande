@@ -1,9 +1,5 @@
-   ██╗   ██╗██╗  ██╗
-   ██║   ██║██║  ██║
-   ██║   ██║███████║
-   ╚██╗ ██╔╝██╔══██║
-    ╚████╔╝ ██║  ██║
-     ╚═══╝  ╚═╝  ╚═╝
+# Vedant Hande
+
 > I don't write code that just works. I build things that scale.
 
 ```bash
