@@ -9,10 +9,11 @@ junior sde at a small tech startup · founder @ NullCode
 B.Tech @ DBATU (in parallel)
 
 $ cat stack
-frontend/  react.js · tailwind · javascript (es6+) · redux
-backend/   node.js · express · php · rest apis
+frontend/  react.js · tailwind · javascript (es6+) · redux · ejs
+backend/   node.js · express · php · rest apis · socket.io
 database/  mongodb · mysql (schema design & optimization)
 devops/    docker · kubernetes · ci/cd · cloudinary · razorpay
+extras/    web push · smtp · joi · passport · flatpickr
 
 $ cat wins
 - own end-to-end dev of production web systems (php & mysql)
@@ -35,11 +36,6 @@ intern     Innovatus Technology Consulting · Jun–Sep 2024
 $ cat education
 2025–present  B.Tech IT · DBATU
 2022–2025     Diploma IT · AVCOE · 91.13%
-
-$ cat now
-building/  something new (coming soon)
-learning/  scaling systems, product thinking, AI integration
-open_to/   product-driven SaaS roles
 
 $ cat contact
 linkedin  →  https://www.linkedin.com/in/vedanthande
